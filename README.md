@@ -4,4 +4,4 @@ This repo contains the Custom-lexicon files and reported in the paper **"COVAC_S
 
 ## Custom-lexicon
 
-dddd
+We constructed specialized terms used in vaccine communication. These include words related to diseases, drug-related words such as, and social and political words.
